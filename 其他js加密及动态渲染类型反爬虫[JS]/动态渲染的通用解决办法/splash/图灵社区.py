@@ -2,7 +2,7 @@ import requests
 import json
 
 # Splash接口，编译lua脚本
-render = "http://www.porters.vip:8050/execute"
+render = ""
 
 # 需要执行的命令
 script = """
